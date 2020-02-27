@@ -2,6 +2,9 @@
 	enum_LoggedOnUsers
 	by Gabriel Polmar (gpolmar@megaphat.net), Megaphat Networks (https://www.megaphat.net)
 
+	Purpose:
+	Enumerate all logged on users on all computers within a AD domain.
+
 	Remarks:
 	Yes I know I could have done better with the object array portion but I was in a rush.
 	I tried to use the following:
